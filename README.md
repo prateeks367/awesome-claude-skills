@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [voicemoat-skills](https://github.com/prateeks367/voicemoat-skills) - 26 free skills for writing on LinkedIn and Twitter: write in your voice, audit a draft before you publish, fix openings and endings, draft comments, and plan the week.
 
 
 ## 🤝 Contribution
